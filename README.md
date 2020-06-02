@@ -27,7 +27,7 @@ This post will only show after editing pageQuery.
 3. Save the file and check if it showed up on the homepage — it should, but doesn't.
 4. Change `indexQuery` limit in `src/pages/index.js` from 8 to e.g. 7 and save the file. The post now shows up on the homepage.
 
-[🎥 Screen Recording showing the issue](https://share.getcloudapp.com/X6uoxOKG)
+[🎥 Screen Recording showing the issue](https://share.getcloudapp.com/lluJjDe7)
 
 ### Expected result
 
