@@ -4,18 +4,18 @@ const tailwindConfig = require('./tailwind.config.js')
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    title: `John Lindquist`,
-    author: `John Lindquist`,
+    title: `pagequery-doesnt-reflect-changes`,
+    author: `@vjthlk`,
     description: `This is where I post things!`,
-    siteUrl: `https://johnlindquist.com`,
+    siteUrl: `https://vojta.io`,
     social: [
       {
         name: `Twitter`,
-        url: `https://twitter.com/johnlindquist`,
+        url: `https://twitter.com/vjthlk`,
       },
       {
         name: `Github`,
-        url: `https://github.com/johnlindquist`,
+        url: `https://github.com/vojtaholik`,
       },
     ],
   },
