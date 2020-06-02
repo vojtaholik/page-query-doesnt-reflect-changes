@@ -4,7 +4,7 @@
 * `yarn`
 * `gatsby develop`
 
-### Steps to reproduce a bug with pageQuery not reflecting changes
+### Steps to reproduce a bug with pageQuery not reflecting changes ([#24705](https://github.com/gatsbyjs/gatsby/issues/24705))
 
 1. Create a new markdown file in `content/posts`:
 
